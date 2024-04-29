@@ -1,16 +1,12 @@
 # timerdailytask
 
-A new Flutter project.
+<h3 align="center"> 1.First Task </h3>
 
-## Getting Started
+<h1 align="left"></h1>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  <img src = "https://github.com/sanjuafre123/timerdailytask/assets/148860124/a5c9f3b6-77eb-435a-b1bd-5c0fd277a7bd" height ="550">
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
