@@ -5,9 +5,8 @@
 <h1 align="left"></h1>
 <div align ="center">
 
-  <img src = "https://github.com/sanjuafre123/timerdailytask/assets/148860124/bedf513c-254e-46fa-90f4-7a478237e05b" height ="550">
+  <img src = "https://github.com/sanjuafre123/timerdailytask/assets/148860124/4324d8de-cc35-4742-84dc-861badf45f1e" height ="550">
 </div>
-
 
 <h3 align="center"> 2.Second Task </h3>
 
