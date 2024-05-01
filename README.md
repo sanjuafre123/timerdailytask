@@ -141,3 +141,15 @@ void main() {
 }
 
 ```
+
+<h3 align="center"> 3.Third Task </h3>
+
+<div align ="center">
+
+  <img src = "https://github.com/sanjuafre123/timerdailytask/assets/148860124/1c3f1b7a-d246-491c-a66f-766d7c0412ae" height ="550">
+</div>
+
+
+
+
+
