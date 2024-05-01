@@ -145,9 +145,8 @@ void main() {
 
 <div align ="center">
 
-  <img src = "https://github.com/sanjuafre123/timerdailytask/assets/148860124/1c3f1b7a-d246-491c-a66f-766d7c0412ae" height ="550">
+  <img src = "https://github.com/sanjuafre123/timerdailytask/assets/148860124/28565ae4-87f9-4e4f-9991-df3aaadffe17" height ="550">
 </div>
-
 
 
 
