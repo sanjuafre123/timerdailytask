@@ -149,7 +149,15 @@ void main() {
   
 </div>
 
-<h3 align="center"> 3. Analogue Clock </h3>
+<h3 align="center"> Digital Clock App Page Video </h3>
+
+<div align="center">
+ <video src="https://github.com/sanjuafre123/timerdailytask/assets/148860124/b981e975-fb01-441c-85df-73f659183cb2" type="video/mp4">
+</video>
+</div>
+
+
+<h3 align="center"> 4. Analogue Clock </h3>
 
 <div align ="center">
 
@@ -157,7 +165,7 @@ void main() {
   
 </div>
 
-<h3 align="center"> 4. Analogue Clock Video </h3>
+<h3 align="center"> Analogue Clock Video </h3>
 
 <div align="center">
  <video src="https://github.com/sanjuafre123/timerdailytask/assets/148860124/6f617762-4414-4398-b35d-b94849e229bf" type="video/mp4">
