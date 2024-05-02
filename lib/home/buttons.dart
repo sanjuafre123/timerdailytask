@@ -51,20 +51,20 @@ class _ButtonsState extends State<Buttons> {
                   margin: EdgeInsets.only(top: 15, left: 15),
                   child: ElevatedButton(
                     onPressed: () {},
-                    child: Text('Elevated'),
+                    child: const Text('Elevated'),
                   ),
                 ),
-                SizedBox(height: 20,),
+                const SizedBox(height: 20,),
                 Container(
-                  margin: EdgeInsets.only(left: 15, top: 10),
+                  margin: const EdgeInsets.only(left: 15, top: 10),
                   child: FilledButton.tonal(
                     onPressed: () {},
-                    child: Text(
+                    child: const Text(
                       'Filled Tonal',
                     ),
                   ),
                 ),
-                SizedBox(height: 20,),
+                const SizedBox(height: 20,),
                 Container(
                   margin: EdgeInsets.only(left: 25, top: 10),
                   child: IconButton.outlined(

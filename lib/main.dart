@@ -16,8 +16,8 @@ class Myapp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       routes: {
-        '/': (context) => const Buttons(),
-        '/Clock': (context) => const Clockapp(),
+        // '/': (context) => const Buttons(),
+        '/': (context) => const Clockapp(),
       },
     );
   }
