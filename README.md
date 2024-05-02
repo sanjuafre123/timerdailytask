@@ -1,6 +1,6 @@
 # timerdailytask
 
-<h3 align="center"> 1.Flutter Buttons. </h3>
+<h3 align="center"> 1.Flutter Buttons </h3>
 
 <h1 align="left"></h1>
 <div align ="center">
@@ -149,6 +149,18 @@ void main() {
   
 </div>
 
+<h3 align="center"> 3. Analogue Clock </h3>
 
+<div align ="center">
 
+  <img src = "https://github.com/sanjuafre123/timerdailytask/assets/148860124/5db8608d-39b3-4202-8338-b6286faa0d26" height ="550">
+  
+</div>
+
+<h3 align="center"> 4. Analogue Clock Video </h3>
+
+<div align="center">
+ <video src="https://github.com/sanjuafre123/timerdailytask/assets/148860124/6f617762-4414-4398-b35d-b94849e229bf" type="video/mp4">
+</video>
+</div>
 
