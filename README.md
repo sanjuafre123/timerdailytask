@@ -161,7 +161,7 @@ void main() {
 
 <div align ="center">
 
-  <img src = "https://github.com/sanjuafre123/timerdailytask/assets/148860124/5db8608d-39b3-4202-8338-b6286faa0d26" height ="550">
+  <img src = "https://github.com/sanjuafre123/timerdailytask/assets/148860124/2ebe88bb-f3a8-4c93-8eed-d1e59bf0197c" height ="550">
   
 </div>
 
@@ -171,4 +171,28 @@ void main() {
  <video src="https://github.com/sanjuafre123/timerdailytask/assets/148860124/6f617762-4414-4398-b35d-b94849e229bf" type="video/mp4">
 </video>
 </div>
+
+
+
+<h3 align="center"> ✨ Time App ✨ </h3>
+
+<div align ="center">
+
+  <img align = "left" src = "https://github.com/sanjuafre123/timerdailytask/assets/148860124/d1936976-6bcc-42df-8a9f-d82916c4b6c8" height ="550">
+  <img src = "https://github.com/sanjuafre123/timerdailytask/assets/148860124/3c0e979c-ecb1-4c2c-aba9-9bd2f121064f" height ="550">
+  <img align = "right" src = "https://github.com/sanjuafre123/timerdailytask/assets/148860124/e5541a34-1644-4715-817c-83360fe7d4db" height ="550">
+
+</div>
+
+<h3 align="center"> Timer App video </h3>
+
+<div align="center">
+ <video src="https://github.com/sanjuafre123/timerdailytask/assets/148860124/3486fe01-3a71-44db-926d-57dd14b58602" type="video/mp4">
+</video>
+</div>
+
+
+
+
+
 
