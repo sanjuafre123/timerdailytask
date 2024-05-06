@@ -97,9 +97,7 @@ class _DigitalClockState extends State<DigitalClock> {
                 fontSize: 30,
               ),
             ),
-            SizedBox(
-              height: 350,
-            ),
+            Spacer(),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
@@ -117,7 +115,7 @@ class _DigitalClockState extends State<DigitalClock> {
                     Navigator.of(context).pushNamed('/Clock');
                   },
                   child: Text(
-                    '/analogue',
+                    'analogue',
                     style: TextStyle(color: Colors.white),
                   ),
                 ),

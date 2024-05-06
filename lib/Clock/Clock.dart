@@ -154,9 +154,7 @@ class _ClockappState extends State<Clockapp> {
                 ],
               ),
             ),
-            SizedBox(
-              height: 230,
-            ),
+            Spacer(),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [

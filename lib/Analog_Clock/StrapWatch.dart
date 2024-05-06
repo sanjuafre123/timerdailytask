@@ -191,9 +191,7 @@ class _StrapwatchState extends State<Strapwatch> {
                 ),
               ],
             ),
-            SizedBox(
-              height: 250,
-            ),
+            Spacer(),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
