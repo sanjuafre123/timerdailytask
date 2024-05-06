@@ -57,8 +57,10 @@ class _ClockappState extends State<Clockapp> {
                     'https://w0.peakpx.com/wallpaper/336/491/HD-wallpaper-rocks-sea-surf-moon-night.jpg'),
                 fit: BoxFit.cover)),
         child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
           children: [
+            SizedBox(
+              height: 260,
+            ),
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
@@ -151,7 +153,42 @@ class _ClockappState extends State<Clockapp> {
                   ),
                 ],
               ),
-            )
+            ),
+            SizedBox(
+              height: 230,
+            ),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: [
+                OutlinedButton(
+                  onPressed: () {
+                    Navigator.of(context).pushNamed('/digital');
+                  },
+                  child: Text(
+                    'digital',
+                    style: TextStyle(color: Colors.white),
+                  ),
+                ),
+                OutlinedButton(
+                  onPressed: () {
+                    Navigator.of(context).pushNamed('/Clock');
+                  },
+                  child: Text(
+                    'analogue',
+                    style: TextStyle(color: Colors.white),
+                  ),
+                ),
+                OutlinedButton(
+                  onPressed: () {
+                    Navigator.of(context).pushNamed('/Strap');
+                  },
+                  child: Text(
+                    'Strap',
+                    style: TextStyle(color: Colors.white),
+                  ),
+                ),
+              ],
+            ),
           ],
         ),
       ),
